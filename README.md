@@ -29,7 +29,7 @@ A partir da análise dos dados consolidados do petshop, destacam-se os seguintes
 ## 📁 Estrutura do Repositório
 * `Dashboard_Gatito_Petshop.pbix`: Arquivo original do Power BI para consulta técnica de fórmulas e relacionamentos.
 * `Dashboard_Gatito_Petshop.pdf`: Versão estática em PDF do dashboard para visualização rápida.
-* `dados.zip`: Arquivo compactado contendo as bases de dados utilizadas no projeto.
+* `Dados_Gatito_Petshop.zip`: Arquivo compactado contendo as bases de dados utilizadas no projeto.
 
 ---
 *Projeto desenvolvido por Derick Leal para fins de portfólio profissional de análise de dados.*
